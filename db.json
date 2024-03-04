@@ -1,0 +1,47 @@
+{
+  "student": [
+    {
+      "id": 1,
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "admin123",
+      "status": 1
+    },
+    {
+      "id": "2",
+      "email": "sean@gmail.com",
+      "name": "sean",
+      "status": "1"
+    },
+    {
+      "id": "3",
+      "email": "todd@gmail.com",
+      "name": "todd",
+      "status": "1"
+    },
+    {
+      "id": "4",
+      "email": "freddy@gmail.com",
+      "name": "freddy",
+      "status": "1"
+    },
+    {
+      "id": "5",
+      "email": "katherine@gmail.com",
+      "name": "katherine",
+      "status": "0"
+    },
+    {
+      "id": "10",
+      "email": "test1@gmail.com",
+      "name": "test1",
+      "status": "1"
+    },
+    {
+      "id": "7",
+      "email": "test7@gmail.com",
+      "name": "test7",
+      "status": "1"
+    }
+  ]
+}
